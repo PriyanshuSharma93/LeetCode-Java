@@ -53,3 +53,19 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 ---
 
 ⭐ If you find this repository helpful, don't forget to star it.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+<!---LeetCode Topics End-->
