@@ -80,10 +80,31 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0409-longest-palindrome) |
 ## Greedy
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0680-valid-palindrome-ii) |
+## Array
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
