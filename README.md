@@ -85,6 +85,7 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 | ------- |
 | [0268-missing-number](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0409-longest-palindrome) |
+| [0496-next-greater-element-i](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0496-next-greater-element-i) |
 ## Greedy
 |  |
 | ------- |
@@ -94,6 +95,7 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -115,4 +117,9 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0071-simplify-path) |
+| [0496-next-greater-element-i](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
