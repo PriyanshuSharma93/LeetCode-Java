@@ -96,6 +96,7 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 | ------- |
 | [0268-missing-number](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0503-next-greater-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -118,8 +119,10 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 | [0032-longest-valid-parentheses](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0071-simplify-path) |
 | [0496-next-greater-element-i](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
