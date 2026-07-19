@@ -97,6 +97,7 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 | [0268-missing-number](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0503-next-greater-element-ii) |
+| [0641-design-circular-deque](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0641-design-circular-deque) |
 ## Math
 |  |
 | ------- |
@@ -125,4 +126,16 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 | ------- |
 | [0496-next-greater-element-i](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0503-next-greater-element-ii) |
+## Linked List
+|  |
+| ------- |
+| [0641-design-circular-deque](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0641-design-circular-deque) |
+## Design
+|  |
+| ------- |
+| [0641-design-circular-deque](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0641-design-circular-deque) |
+## Queue
+|  |
+| ------- |
+| [0641-design-circular-deque](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
