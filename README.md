@@ -70,6 +70,7 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 | [0071-simplify-path](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0071-simplify-path) |
 | [0392-is-subsequence](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0409-longest-palindrome) |
+| [0649-dota2-senate](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0680-valid-palindrome-ii) |
 ## String Matching
 |  |
@@ -90,6 +91,7 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0409-longest-palindrome) |
+| [0649-dota2-senate](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0680-valid-palindrome-ii) |
 ## Array
 |  |
@@ -138,4 +140,5 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 |  |
 | ------- |
 | [0641-design-circular-deque](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0641-design-circular-deque) |
+| [0649-dota2-senate](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
