@@ -131,6 +131,7 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0024-swap-nodes-in-pairs) |
 | [0641-design-circular-deque](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0641-design-circular-deque) |
 ## Design
 |  |
@@ -147,4 +148,8 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0933-number-of-recent-calls) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
