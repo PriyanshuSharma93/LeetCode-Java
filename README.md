@@ -60,6 +60,7 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0061-rotate-list) |
 | [0392-is-subsequence](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0680-valid-palindrome-ii) |
 ## String
@@ -132,6 +133,7 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0061-rotate-list) |
 | [0641-design-circular-deque](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0641-design-circular-deque) |
 ## Design
 |  |
