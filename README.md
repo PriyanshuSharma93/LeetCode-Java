@@ -105,10 +105,12 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
