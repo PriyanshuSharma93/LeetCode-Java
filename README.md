@@ -138,6 +138,7 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 | [0024-swap-nodes-in-pairs](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0206-reverse-linked-list](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0206-reverse-linked-list) |
 | [0641-design-circular-deque](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0641-design-circular-deque) |
 ## Design
 |  |
@@ -158,4 +159,5 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
