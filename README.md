@@ -64,6 +64,7 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0392-is-subsequence](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -140,6 +141,7 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0206-reverse-linked-list](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0206-reverse-linked-list) |
 | [0641-design-circular-deque](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0641-design-circular-deque) |
+| [0876-middle-of-the-linked-list](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
