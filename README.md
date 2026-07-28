@@ -99,6 +99,7 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0503-next-greater-element-ii) |
@@ -112,6 +113,7 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -162,4 +164,8 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0206-reverse-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
