@@ -111,6 +111,7 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 | [0503-next-greater-element-ii](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0503-next-greater-element-ii) |
 | [0641-design-circular-deque](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0641-design-circular-deque) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Math
 |  |
 | ------- |
@@ -125,6 +126,7 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 | [0268-missing-number](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Bit Manipulation
 |  |
 | ------- |
