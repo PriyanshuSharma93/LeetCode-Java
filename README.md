@@ -68,6 +68,7 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0071-simplify-path) |
@@ -89,6 +90,7 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0496-next-greater-element-i) |
@@ -116,6 +118,7 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0268-missing-number) |
 ## Binary Search
