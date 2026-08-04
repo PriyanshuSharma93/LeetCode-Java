@@ -74,6 +74,7 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 | [0071-simplify-path](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0071-simplify-path) |
 | [0392-is-subsequence](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0649-dota2-senate](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0680-valid-palindrome-ii) |
 ## String Matching
@@ -93,6 +94,7 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 | [0013-roman-to-integer](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0496-next-greater-element-i) |
 ## Greedy
 |  |
@@ -194,4 +196,5 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
