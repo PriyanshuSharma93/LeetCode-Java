@@ -71,6 +71,7 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 | [0013-roman-to-integer](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0071-simplify-path) |
 | [0392-is-subsequence](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0409-longest-palindrome) |
@@ -92,6 +93,7 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 | ------- |
 | [0001-two-sum](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -108,6 +110,7 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 | ------- |
 | [0001-two-sum](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0268-missing-number) |
@@ -141,6 +144,7 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0268-missing-number) |
 ## Stack
 |  |
