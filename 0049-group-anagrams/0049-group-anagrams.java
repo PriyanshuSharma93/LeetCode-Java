@@ -6,12 +6,20 @@ class Solution {
         Map<String, List<String>> map = new HashMap<>();
 
         for (String str : strs) {
-            char[] ch = str.toCharArray();
-            Arrays.sort(ch);
-            String key = new String(ch);
 
-            map.putIfAbsent(key, new ArrayList<>());
-            map.get(key).add(str);
+            int[] count = new int[26];
+
+            for (char c : str.toCharArray()) {
+                count[c - 'a']++;
+            }
+
+            StringBuilder key = new StringBuilder();
+            for (int num : count) {
+                key.append(num).append('#');
+            }
+
+            map.putIfAbsent(key.toString(), new ArrayList<>());
+            map.get(key.toString()).add(str);
         }
 
         return new ArrayList<>(map.values());
