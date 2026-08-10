@@ -157,6 +157,7 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 | [0032-longest-valid-parentheses](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
@@ -220,12 +221,15 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
