@@ -80,6 +80,7 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 | [0438-find-all-anagrams-in-a-string](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0649-dota2-senate](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0680-valid-palindrome-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## String Matching
 |  |
 | ------- |
@@ -162,6 +163,7 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 | [0144-binary-tree-preorder-traversal](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0503-next-greater-element-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
