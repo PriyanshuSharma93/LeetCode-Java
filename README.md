@@ -99,6 +99,7 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 | [0001-two-sum](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0049-group-anagrams) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0268-missing-number](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0380-insert-delete-getrandom-o1) |
 | [0409-longest-palindrome](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0409-longest-palindrome) |
@@ -119,6 +120,7 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0074-search-a-2d-matrix) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0209-minimum-size-subarray-sum](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0380-insert-delete-getrandom-o1) |
@@ -223,12 +225,14 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
@@ -243,6 +247,7 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 | [0094-binary-tree-inorder-traversal](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
