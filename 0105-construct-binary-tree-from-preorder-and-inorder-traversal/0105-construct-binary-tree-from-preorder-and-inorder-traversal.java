@@ -19,6 +19,8 @@ class Solution {
     private Map<Integer, Integer> inorderMap = new HashMap<>();
 
     public TreeNode buildTree(int[] preorder, int[] inorder) {
+
+        // Store inorder value -> index
         for (int i = 0; i < inorder.length; i++) {
             inorderMap.put(inorder[i], i);
         }
@@ -31,10 +33,18 @@ class Solution {
         if (left > right) {
             return null;
         }
+
+        // First element of preorder is the root
         int rootValue = preorder[preorderIndex++];
         TreeNode root = new TreeNode(rootValue);
+
+        // Find root in inorder
         int mid = inorderMap.get(rootValue);
+
+        // Build left subtree
         root.left = build(preorder, left, mid - 1);
+
+        // Build right subtree
         root.right = build(preorder, mid + 1, right);
 
         return root;
