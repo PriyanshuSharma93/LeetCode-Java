@@ -91,6 +91,7 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0032-longest-valid-parentheses) |
+| [0062-unique-paths](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0062-unique-paths) |
 | [0392-is-subsequence](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0410-split-array-largest-sum) |
 ## Hash Table
@@ -134,6 +135,7 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0380-insert-delete-getrandom-o1) |
@@ -254,4 +256,8 @@ Hi, I'm **Priyanshu Sharma**, a Java Backend Developer passionate about Data Str
 | ------- |
 | [0100-same-tree](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0104-maximum-depth-of-binary-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/PriyanshuSharma93/LeetCode-Java/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
